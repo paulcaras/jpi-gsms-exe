@@ -1,1 +1,1 @@
-# jpi-gsms-exe
+# GSMS Public Release
