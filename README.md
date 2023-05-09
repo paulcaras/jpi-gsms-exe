@@ -1,1 +1,1 @@
-# GSMS Public Release
+# Public Repository For Project One GSMS
